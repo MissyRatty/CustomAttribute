@@ -1,0 +1,14 @@
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\bin\Debug\netcoreapp2.1\CustomCachingSpike.deps.json
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\bin\Debug\netcoreapp2.1\CustomCachingSpike.runtimeconfig.json
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\bin\Debug\netcoreapp2.1\CustomCachingSpike.runtimeconfig.dev.json
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\bin\Debug\netcoreapp2.1\CustomCachingSpike.dll
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\bin\Debug\netcoreapp2.1\CustomCachingSpike.pdb
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\obj\Debug\netcoreapp2.1\CustomCachingSpike.csprojAssemblyReference.cache
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\obj\Debug\netcoreapp2.1\CustomCachingSpike.csproj.CoreCompileInputs.cache
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\obj\Debug\netcoreapp2.1\CustomCachingSpike.RazorAssemblyInfo.cache
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\obj\Debug\netcoreapp2.1\CustomCachingSpike.RazorAssemblyInfo.cs
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\obj\Debug\netcoreapp2.1\CustomCachingSpike.AssemblyInfoInputs.cache
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\obj\Debug\netcoreapp2.1\CustomCachingSpike.AssemblyInfo.cs
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\obj\Debug\netcoreapp2.1\CustomCachingSpike.RazorTargetAssemblyInfo.cache
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\obj\Debug\netcoreapp2.1\CustomCachingSpike.dll
+C:\Users\rboakye-agyemang\source\repos\CustomCachingSpike\obj\Debug\netcoreapp2.1\CustomCachingSpike.pdb
